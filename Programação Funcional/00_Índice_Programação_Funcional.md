@@ -1,0 +1,4 @@
+- [[01_Introdução | Introdução e conceitos básicos]]
+- [[99_Data_vs_Type | Data vs Type em haskell: diferenças teóricas]]
+- [[99_Mônadas | Mônadas: O que são? O que fazem? Aonde vivem?]]
+- 
