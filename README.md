@@ -1,1 +1,3 @@
 my-obsidian
+
+my notes
