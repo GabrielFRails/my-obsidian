@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/02.1_Classes_Anotações_Gerais.md",
+                "file": "Java/03.3_Vetores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.1_Classes_Anotações_Gerais"
+              "title": "03.3_Vetores"
             }
           }
         ],
@@ -208,10 +208,18 @@
   },
   "active": "440b4b7fd6ec6d6f",
   "lastOpenFiles": [
-    "README.md",
-    "Java/00_Índice_Java.md",
-    "Java/02.1_Classes_Anotações_Gerais.md",
+    "Java/03.3.1_ArrayList.md",
+    "Java/Untitled.md",
+    "Java/03.4_Boxing_Umboxing_Wrapper.md",
+    "Java/03.3_Vetores.md",
     "Java/01.2_Convenções_de_Nomenclatura.md",
+    "Java/00_Índice_Java.md",
+    "Java/03.2_Garbage_Collector.md",
+    "Java/Untitled",
+    "Java/03.1_Tipo_Referência_Valor.md",
+    "Java/02.7_Tabela_Acesso.png",
+    "Java/02.1_Classes_Anotações_Gerais.md",
+    "README.md",
     "Untitled.md",
     "Untitled 1.md",
     "Java/01.1_Tipos_Primitivos.md",
