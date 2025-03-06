@@ -1,0 +1,4 @@
+- conceitos básicos de acordo com o slide
+- plano da disciplina
+- ```NF = 0,55MP +0,15T1+0,1T2+0,2T3.```
+- 
