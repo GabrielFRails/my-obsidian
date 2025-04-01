@@ -55,16 +55,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/03.3_Vetores.md",
+                "file": "Faculdade/SGBD/01_Aula_Inicial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.3_Vetores"
+              "title": "01_Aula_Inicial"
+            }
+          },
+          {
+            "id": "ff7524e03669e530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Compiladores/00_Índice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Índice"
+            }
+          },
+          {
+            "id": "6df2d5c076c99e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Pesquisa Operacional/00_Índice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Índice"
+            }
+          },
+          {
+            "id": "ebbf2673c4d170bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Pesquisa Operacional/01_Aula_Inicial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Aula_Inicial"
+            }
+          },
+          {
+            "id": "83e4181e155e645e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Redes 1/00_Índice_redes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Índice_redes"
+            }
+          },
+          {
+            "id": "28ce213f0c0e5040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Redes 1/01_Resumo_Prova_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Resumo_Prova_1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -83,7 +153,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -206,12 +277,29 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "440b4b7fd6ec6d6f",
+  "active": "34992937a1599961",
   "lastOpenFiles": [
+    "Faculdade/Redes 1/00_Índice_redes.md",
+    "Faculdade/Redes 1/01_Resumo_Prova_1.md",
+    "Faculdade/Compiladores/02_Aula_1003.md",
+    "Faculdade/Redes 1",
+    "Faculdade/Compiladores/01_Aula_Inicial.md",
+    "Faculdade/Circuitos Digitais/01_Aula_Inicial.md",
+    "Faculdade/Circuitos Digitais/00_Índice.md",
+    "Faculdade/Compiladores/00_Índice.md",
+    "Faculdade/Compiladores/Untitled",
+    "Faculdade/Circuitos Digitais",
+    "Faculdade/Pesquisa Operacional/00_Índice.md",
+    "Faculdade/Pesquisa Operacional/01_Aula_Inicial.md",
+    "Faculdade/Pesquisa Operacional",
+    "Faculdade/SGBD/01_Aula_Inicial.md",
+    "Faculdade/Compiladores",
+    "Faculdade/Equações Diferenciais e Ordinárias/00_Índice_EDO.md",
+    "Java/03.3_Vetores.md",
+    "Faculdade/SGBD",
     "Java/03.3.1_ArrayList.md",
     "Java/Untitled.md",
     "Java/03.4_Boxing_Umboxing_Wrapper.md",
-    "Java/03.3_Vetores.md",
     "Java/01.2_Convenções_de_Nomenclatura.md",
     "Java/00_Índice_Java.md",
     "Java/03.2_Garbage_Collector.md",
@@ -220,7 +308,6 @@
     "Java/02.7_Tabela_Acesso.png",
     "Java/02.1_Classes_Anotações_Gerais.md",
     "README.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Java/01.1_Tipos_Primitivos.md",
     "Faculdade/Equações Diferenciais e Ordinárias/02.2.1_Primeira_Ordem_Fator_Integrante.md",
@@ -228,21 +315,6 @@
     "Java",
     "Faculdade/Equações Diferenciais e Ordinárias/02.2_Primeira_Ordem.md",
     "Faculdade/Equações Diferenciais e Ordinárias/02.1_Introdução.md",
-    "Faculdade/Equações Diferenciais e Ordinárias/01.2_Revisão_Integrais.md",
-    "Faculdade/Equações Diferenciais e Ordinárias/01.1_Revisão_Derivadas.md",
-    "Faculdade/Equações Diferenciais e Ordinárias/00_Índice_EDO.md",
-    "Programação Funcional/99_Mônadas.md",
-    "Programação Funcional/00_Índice_Programação_Funcional.md",
-    "Cristianismo/Estudos Bíblicos/01_Romanos_12_2.md",
-    "Cristianismo/Estudos Bíblicos/00_Índice_Estudos_Bíblicos.md",
-    "Programação Funcional/01_Introdução.md",
-    "Programação Funcional/99_Data_vs_Type.md",
-    "Programação Funcional",
-    "Cristianismo/Estudos Bíblicos",
-    "Cristianismo",
-    "EDO_de_1a_Ordem.md",
-    "Faculdade/Equações Diferenciais e Ordinárias/01.2_Revisão_Integrais",
-    "Faculdade/Equações Diferenciais e Ordinárias",
-    "Faculdade"
+    "Programação Funcional"
   ]
 }
