@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Redes 1/01_Resumo_Prova_1.md",
+                "file": "Faculdade/Redes 1/01_Resumo_Listas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Resumo_Prova_1"
+              "title": "01_Resumo_Listas"
             }
           }
         ],
@@ -277,10 +277,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "34992937a1599961",
+  "active": "28ce213f0c0e5040",
   "lastOpenFiles": [
     "Faculdade/Redes 1/00_Índice_redes.md",
-    "Faculdade/Redes 1/01_Resumo_Prova_1.md",
+    "Faculdade/Redes 1/01_Resumo_Listas.md",
     "Faculdade/Compiladores/02_Aula_1003.md",
     "Faculdade/Redes 1",
     "Faculdade/Compiladores/01_Aula_Inicial.md",
